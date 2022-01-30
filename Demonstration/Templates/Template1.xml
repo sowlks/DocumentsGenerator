@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <t1>
+    <MarkType>Armored</MarkType>
+    <Symbol>KPP</Symbol>
+    <Begin>Building 1</Begin>
+    <End>Building 2</End>
+    <Mark>Mark1</Mark>
+    <Length>12.32</Length>
+  </t1>
+  <t1>
+    <MarkType>Armored</MarkType>
+    <Symbol>KPP</Symbol>
+    <Begin>Building 2</Begin>
+    <End>Building 3</End>
+    <Mark>Mark2</Mark>
+    <Length>14</Length>
+  </t1>
+  <t1>
+    <MarkType>Armored</MarkType>
+    <Symbol>DFF</Symbol>
+    <Begin>Building 3</Begin>
+    <End>Building 4</End>
+    <Mark>Mark3</Mark>
+    <Length>35</Length>
+  </t1>
+  <t1>
+    <MarkType>Flexible</MarkType>
+    <Symbol>DFF</Symbol>
+    <Begin>Building 1</Begin>
+    <End>Building 2</End>
+    <Mark>Mark4</Mark>
+    <Length>1</Length>
+  </t1>
+  <t1>
+    <MarkType>Flexible</MarkType>
+    <Symbol>DFF</Symbol>
+    <Begin>Building 10</Begin>
+    <End>Building 11</End>
+    <Mark>Mark5</Mark>
+    <Length>0.44</Length>
+  </t1>
+  <t1>
+    <MarkType>Flexible</MarkType>
+    <Symbol>ERR</Symbol>
+    <Begin>Building 11</Begin>
+    <End>Building 12</End>
+    <Mark>Mark6</Mark>
+    <Length>3</Length>
+  </t1>
+  <t1>
+    <MarkType>Flexible</MarkType>
+    <Symbol>ERR</Symbol>
+    <Begin>Building 12</Begin>
+    <End>Building 13</End>
+    <Mark>Mark7</Mark>
+    <Length>4</Length>
+  </t1>
+</NewDataSet>
